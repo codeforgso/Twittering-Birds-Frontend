@@ -14,13 +14,7 @@ To get the blank slate up and running:
 
 ```bash
 $ npm install
-```
-
-If you don't already have [the `scss-lint` Ruby gem](https://github.com/causes/scss-lint) installed, you'll need to do that:
-
-```bash
-$ gem update --system
-$ gem install scss-lint
+$ bower install
 ```
 
 And finally, to start up the project:
@@ -33,4 +27,4 @@ Open [localhost:3000](http://localhost:3000) in your browser. To see [BrowserSyn
 
 ---
 
-Starting point = [Trey's Blank Slate](https://github.com/trey/blank).
+[Trey's Blank Slate](https://github.com/trey/blank) was used as a starting point.
